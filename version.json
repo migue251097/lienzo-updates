@@ -1,6 +1,6 @@
 {
- "versionCode": 16,
- "versionName": "16.0",
+ "versionCode": 17,
+ "versionName": "17.0",
  "apk": "Lienzo.apk",
- "notes": "v16: reproductor rediseñado (controles nuevos, vista previa al adelantar, capítulos en la barra, bloqueo de pantalla, temporizador, repetir) y arreglo del loop al salir de pantalla completa"
+ "notes": "v17: arreglo de toques en el reproductor + Me gusta / No me gusta"
 }
