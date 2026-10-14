@@ -1,6 +1,6 @@
 {
- "versionCode": 13,
- "versionName": "13.0",
+ "versionCode": 14,
+ "versionName": "14.0",
  "apk": "Lienzo.apk",
- "notes": "v13: Historial por día con buscador y filtros, capítulos, comentarios, cola de reproducción, audio en segundo plano, títulos sin clickbait (DeArrow) e importar suscripciones"
+ "notes": "v14: el Historial trae tu historial de YouTube directo de tu cuenta de Google, agrupado por día, con progreso y opción de quitar videos"
 }
