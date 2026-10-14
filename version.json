@@ -1,6 +1,6 @@
 {
- "versionCode": 15,
- "versionName": "15.0",
+ "versionCode": 16,
+ "versionName": "16.0",
  "apk": "Lienzo.apk",
- "notes": "v15: busca actualizaciones cada vez que abrís la app (cada 15 min como mucho)"
+ "notes": "v16: reproductor rediseñado (controles nuevos, vista previa al adelantar, capítulos en la barra, bloqueo de pantalla, temporizador, repetir) y arreglo del loop al salir de pantalla completa"
 }
