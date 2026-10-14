@@ -1,6 +1,6 @@
 {
- "versionCode": 14,
- "versionName": "14.0",
+ "versionCode": 15,
+ "versionName": "15.0",
  "apk": "Lienzo.apk",
- "notes": "v14: el Historial trae tu historial de YouTube directo de tu cuenta de Google, agrupado por día, con progreso y opción de quitar videos"
+ "notes": "v15: busca actualizaciones cada vez que abrís la app (cada 15 min como mucho)"
 }
