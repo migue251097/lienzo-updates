@@ -1,6 +1,6 @@
 {
- "versionCode": 17,
- "versionName": "17.0",
+ "versionCode": 18,
+ "versionName": "18.0",
  "apk": "Lienzo.apk",
- "notes": "v17: arreglo de toques en el reproductor + Me gusta / No me gusta"
+ "notes": "Nuevo: sección Música, igual a YouTube Music. Tocá «Música» abajo: Principal con selecciones rápidas y estados de ánimo, Explorar, Biblioteca (con tu cuenta de Google), búsqueda con filtros, álbumes, artistas y playlists, reproductor con Canción/Video, A continuación, Letra sincronizada y Relacionado, Me gusta, y música en segundo plano con notificación."
 }
